@@ -1,4 +1,4 @@
-# Udacity Analysis on Gun Sale Background Checks in the United States
+# Udacity - Analysis on Gun Sale Background Checks in the United States
 
 ## Overview
 This was my first project within Udacity's Data Analyst Nanodegree. I learned how to wrangle, clean, explore, and analyze a dataset. I analyzed gun permit
